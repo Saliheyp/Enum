@@ -1,0 +1,15 @@
+D:\Patika\Enum\bin\Debug\net7.0\Enum.exe
+D:\Patika\Enum\bin\Debug\net7.0\Enum.deps.json
+D:\Patika\Enum\bin\Debug\net7.0\Enum.runtimeconfig.json
+D:\Patika\Enum\bin\Debug\net7.0\Enum.dll
+D:\Patika\Enum\bin\Debug\net7.0\Enum.pdb
+D:\Patika\Enum\obj\Debug\net7.0\Enum.csproj.AssemblyReference.cache
+D:\Patika\Enum\obj\Debug\net7.0\Enum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Patika\Enum\obj\Debug\net7.0\Enum.AssemblyInfoInputs.cache
+D:\Patika\Enum\obj\Debug\net7.0\Enum.AssemblyInfo.cs
+D:\Patika\Enum\obj\Debug\net7.0\Enum.csproj.CoreCompileInputs.cache
+D:\Patika\Enum\obj\Debug\net7.0\Enum.dll
+D:\Patika\Enum\obj\Debug\net7.0\refint\Enum.dll
+D:\Patika\Enum\obj\Debug\net7.0\Enum.pdb
+D:\Patika\Enum\obj\Debug\net7.0\Enum.genruntimeconfig.cache
+D:\Patika\Enum\obj\Debug\net7.0\ref\Enum.dll
